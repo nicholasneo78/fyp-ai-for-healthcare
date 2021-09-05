@@ -1,18 +1,18 @@
 1 7
- (0, 0),
+ (3, 3),
 1,null,null,Just another night .
 2,null,null,Another night of feeling lonely and just wondering what I did wrong in life to deserve this unhappiness .
-3,null,null,I have never felt a pain stronger than being rejected by the love of your life .
+3,depressed,pain,I have never felt a pain stronger than being rejected by the love of your life .
 4,null,null,The person who gives you a purpose .
 5,null,null,The person who is supposed to make everything better .
 6,null,null,You would give your life for this person and
 7,null,null,they just do not love you anywhere near the same .
 2 22
- (0, 0),
+ (3, 7),(3,16),
 1,null,null,Is it possible to fake depression ?
 2,null,null,I have been feeling bad for about 7 months now .
-3,null,null,There are periods where I cry on a daily basis , I never feel like talking , I struggle concentrating and collecting thoughts , I feel such an extreme sadness inside of me also in happy situations , I am exhausted all the time even if I sleep 10 hours straight
-4,null,null,, I often have headaches , I am completely alone
+3,depressed,extreme sadness,There are periods where I cry on a daily basis , I never feel like talking , I struggle concentrating and collecting thoughts , I feel such an extreme sadness inside of me also in happy situations , I am exhausted all the time even if I sleep 10 hours straight
+4,null,null,I often have headaches , I am completely alone
 5,null,null,and I find it difficult to do anything .
 6,null,null,There are nights where it is unbearable .
 7,null,null,I think about my situation : I am completely alone , I am failing at anything because I am so weak I can not handle my feelings
@@ -32,13 +32,13 @@
 21,null,null,Is it possible to fake depression ?
 22,null,null,Could it actually be an excuse for me to not take responsibility of the failure that I am ?
 3 4
- (0, 0),
+ (2, 3),
 1,null,null,Imagine being attractive Imagine what it would be like to be desired , to have someone look at you not in disgust or ambivalence .
-2,null,null,It is all just a roll of the dice , It is too bad if you roll poorly you will be treated objectively worse .
+2,depressed,treated objectively worse,It is all just a roll of the dice , It is too bad if you roll poorly you will be treated objectively worse .
 3,null,null,I wish I was born attractive
 4,null,null,.. fuck
 4 37
- (0, 0),
+ (34, 10),(34, 26),
 1,null,null,Best moment to have anxiety
 2,null,null,It is 3:30am
 3,null,null,, I am tired , want to get up early , and ?
@@ -72,12 +72,12 @@
 31,null,null,Leave me alone brain , I already know all that .
 32,null,null,I would be a king if I could .
 33,null,null,But I will not .
-34,null,null,Funny how despair can suck the marrow of your life , how even when you are ready to fall in the deepest pit
+34,depressed,despair,Funny how despair can suck the marrow of your life , how even when you are ready to fall in the deepest pit
 35,null,null,, you have absolutely no will to catch the rope .
 36,null,null,TL ; DR : FML .
 37,null,null,Have a good day / night everyone !
 5 10
- (0, 0),
+ (9, 8),
 1,null,null,hi , I am a 21 year - old male from the uk
 2,null,null,, over the past few months I have become increasingly depressed .
 3,null,null,I am always acting the joker and
@@ -86,15 +86,15 @@
 6,null,null,hope that I will not wake up in the morning
 7,null,null,For the past 3 or 4 years I have had an overwhelming feeling that I will not live very long and
 8,null,null,over the past few months I have the sensation that I will die very soon .
-9,null,null,my depression also leads me to get very angered .
+9,depression,very angered,my depression also leads me to get very angered .
 10,null,null,I have never spoken to anyone about this .
 6 13
- (0, 0),
+ (5, 5),
 1,null,null,I do not want to die feeling like I was never loved
 2,null,null,47 M married to 41F.
 3,null,null,We have no intimate life .
 4,null,null,I feel like this is the life I was given .
-5,null,null,I do not want to die having forever thoughts of not feeling wanted I have never experienced affection , adoration or intimacy .
+5,depressed,not feeling wanted,I do not want to die having forever thoughts of not feeling wanted I have never experienced affection , adoration or intimacy .
 6,null,null,Yes we have made love ( 3 times in 2017 )
 7,null,null,But it is all me .
 8,null,null,I have never had manual play ( handjob )
@@ -104,7 +104,7 @@
 12,null,null,I do everything and anything to make her feel wanted .
 13,null,null,One time , before I die , want to feel this .
 7 56
- (0, 0),
+ (22, 23),(22, 28),(22, 50),
 1,null,null,I was just curious what your feelings are on long - term outcomes for depression .
 2,null,null,A little background for me
 3,null,null,: I have been on and off medicines for several years .
@@ -126,7 +126,7 @@
 19,null,null,It was then that I sought a therapist , etc .
 20,null,null,I have been on medicines ever since .. since June of 2004 .
 21,null,null,I had lost 40 pounds by going off the medicines , but .
-22,null,null,then became depressed again
+22,depressed,depressed,then became depressed again
 23,null,null,following several deaths and major life events .
 24,null,null,I was put on Lexapro and .
 25,null,null,gained weight
@@ -162,8 +162,8 @@
 55,null,null,negative thinking , understanding why I think the way I do , etc .
 56,null,null,I found Dr. Phil is book on Life Strategies to be very helpful in discovering that there are reasons why I do things and think .
 8 12
- (0, 0),
-1,null,null,My hearing , attentiveness and social awareness has been completely off since dropping into a very low depressive period as of late .
+ (1, 1),
+1,depressed,completely off,My hearing , attentiveness and social awareness has been completely off since dropping into a very low depressive period as of late .
 2,null,null,Normal ?
 3,null,null,Walking through a busy shopping center today
 4,null,null,and I feel heavy and .
@@ -176,7 +176,7 @@
 11,null,null,And when crossing a street I often triple take even when absolutely nothing is coming .
 12,null,null,Fuck this .
 9 34
- (0, 0),
+ (31, 12),(31, 28),(31, 29),
 1,null,null,Hello out there ..
 2,null,null,Ugh .
 3,null,null,I battle with depression , anxiety , bulimia , OCPD , BPD , and some physical health issues .
@@ -207,13 +207,13 @@
 28,null,null,I do not feel like I am living anymore .
 29,null,null,I am just in a holding pattern .
 30,null,null,I think back to what my life was like , even 8 months ago , and
-31,null,null,I mourn for it .
+31,depressed,mourn,I mourn for it .
 32,null,null,At least I am not suicidal .
 33,null,null,I think I just need a place where I can come every so often and unload my mind .
 34,null,null,Thanks for sticking around to the end of the post .
 10 9
- (0, 0),
-1,null,null,Currently waiting at the hospital to be seen If I do not get treatment I am going to kill myself .
+ (1, 2),(1, 7),
+1,depressed,kill myself,Currently waiting at the hospital to be seen If I do not get treatment I am going to kill myself .
 2,null,null,No one in my daily life cares .
 3,null,null,My sister and my mom did not give a shit .
 4,null,null,My abusive boyfriend dumped me today and .
@@ -223,7 +223,7 @@
 8,null,null,I want to live in a hospital ward and not have to think .
 9,null,null,I do not want to live at all
 11 51
- (0, 0),
+ (27, 27),
 1,null,null,Hi .
 2,null,null,I am new to the forums .
 3,null,null,I was going to lurk for a bit before I posted , but
@@ -250,7 +250,7 @@
 24,null,null,they have increased in frequency the last few months .
 25,null,null,They are ( not to sound melodramatic )
 26,null,null,the hardest thing I have ever had to deal with .
-27,null,null,If I am in panic - attack mode , any slight pain or discomfort quickly becomes a life - threatening illness that is surely going to kill me in the next few minutes .
+27,depressed,threatening illness,If I am in panic - attack mode , any slight pain or discomfort quickly becomes a life - threatening illness that is surely going to kill me in the next few minutes .
 28,null,null,As ridiculous as that sounds , it is absolutely real when it is happening
 29,null,null,and I live in almost constant fear it is going to happen again .
 30,null,null,I have a hard time even driving anymore ( especially on the freeway ) and increasingly rely on my girlfriend for menial things like going to the store .
@@ -276,7 +276,7 @@
 50,null,null,Thanks for providing a resource like this .
 51,null,null,The anonymity of the internet lets me say some of the things I am afraid to say to everyone else .
 12 17
- (0, 0),
+ (13, 1),(13, 15)
 1,null,null,I can not study .
 2,null,null,Not even the thing i like the most I love history .
 3,null,null,I picked it this year and
@@ -289,22 +289,22 @@
 10,null,null,I turn my phone off .
 11,null,null,I get rid of all kind of distraction .
 12,null,null,But I can not .
-13,null,null,I have given up .
+13,depressed,given up,I have given up .
 14,null,null,I have been days trying to study , but
 15,null,null,my brain can not keep the info .
 16,null,null,I am going to fail .
 17,null,null,And the worst part is that I am passionate about this subject
 13 7
- (0, 0),
+ (3, 3),
 1,null,null,I do not like when people ask " How are you ? "
 2,null,null,Because instead of saying : " I googled the prices of veterinary xanax this morning because I am seeking any kind of relief from this inescapable malaise and
-3,null,null,self - worthlessness
+3,depressed,worthlessness,self - worthlessness
 4,null,null,I have been battling for the last 14 years .
 5,null,null," I have remind myself that they are not actually asking how I am , and that it is just a greeting and that I have to say " Ahh , y'know , just living . "
 6,null,null,so they do not worry .
 7,null,null,I wish someone would ask how I am and actually care about the answer .
 14 54
- (0, 0),
+ (50, 31),
 1,null,null,An Open Letter Dear you
 2,null,null,, It is been three years since we decided to go our separate ways .
 3,null,null,We both had different goals , desires and aspirations .
@@ -354,18 +354,18 @@
 47,null,null,But it would not change anything .
 48,null,null,For you it is a battle that was fought long ago .
 49,null,null,For me , I relive it more times than I would care to admit .
-50,null,null,I am emotionally crippled , distraught , defeated .
+50,depressed,emotionally crippled,I am emotionally crippled , distraught , defeated .
 51,null,null,It is been a long three years .
 52,null,null,I am ready for it to be over .
 53,null,null,I am sorry .
 54,null,null,Yours truly , Me .
 15 47
- (0, 0),
+ (5, 27),
 1,null,null,Hi I am new to the group .
 2,null,null,I do not know if I am supposed to even post here .
 3,null,null,I am not too good with the computer yet ! !
 4,null,null,I feel stupid !
-5,null,null,I have severe anxiety , and .
+5,depressed,severe anxiety,I have severe anxiety , and .
 6,null,null,am feeling depressed
 7,null,null,I have been struggling with this for years .
 8,null,null,I am 40 years old and ! !
@@ -409,11 +409,11 @@
 46,null,null,I just need to learn more about using the computer ! !
 47,null,null,I would appreciate any help or advice !
 16 11
- (0, 0),
+ (4, 1),
 1,null,null,My cat just got hit by a car I can not even think about it too much .
 2,null,null,My family is a little sad but
 3,null,null,are kinda telling me to get over it .
-4,null,null,I have been in such a terrible depressive spell for the last few weeks and
+4,depressed,terrible depressive spell,I have been in such a terrible depressive spell for the last few weeks and
 5,null,null,this just ruined everything .
 6,null,null,When older pets die by natural causes I do not cry as much as because I know we gave them the best life and they lived very long but my suki was only 2 years old
 7,null,null,she was so fat and adorable
@@ -422,9 +422,9 @@
 10,null,null,I wish I had more time with her .
 11,null,null,now I have almost nothing that makes me smile
 17 12
- (0, 0),
+ (2, 10),(2, 11),
 1,null,null,Humiliated and
-2,null,null,feeling like a disappointment
+2,depressed,disappointment,feeling like a disappointment
 3,null,null,When people see me out , I feel so humiliated .
 4,null,null,I have to make up some bullshit story about taking a gap year before I embark on a career when really I wanna say well karen
 5,null,null,I am clinically depressed as fuck and worn down to the bone by my own thoughts
@@ -436,10 +436,10 @@
 11,null,null,and the thought of getting a proper career job terrifies me .
 12,null,null,I just want this feeling to stop , I can not take it anymore
 18 9
- (0, 0),
+ (3, 2),
 1,null,null,Sadness is the only thing getting me through my day I am not really sure where to talk about this because the people in my life do not really understand .
 2,null,null,I feel like I messed up a lot of my life and the track it was going on .
-3,null,null,Now I am just very disappointed and sad with myself .
+3,depressed,disappointed and sad,Now I am just very disappointed and sad with myself .
 4,null,null,I have tried pills and therapy .
 5,null,null,However , this might sound weird , but
 6,null,null,my sadness is the only thing pulling me through the day and making it pass by quickly .
@@ -447,7 +447,7 @@
 8,null,null,gone
 9,null,null,Anyone else feel this way ?
 19 182
- (0, 0),
+ (130, 121),
 1,null,null,I just really need to vent ..
 2,null,null,For a start , I understand everyone in life are at different levels and that depression and anxiety is different for everyone and I am in no way stating who has it worst or better .
 3,null,null,I have taken hours and hours of training in it
@@ -577,7 +577,7 @@
 127,null,null,but .. every opportunity I hand her to take one more step of becoming independent
 128,null,null,she rejects and .
 129,null,null,shuts down completely
-130,null,null,The whole month was very hard for my fianc and I over how jealous and upset she got
+130,depressed,jealous and upset,The whole month was very hard for my fianc and I over how jealous and upset she got
 131,null,null,and it was too much .
 132,null,null,Currently she is back home for Christmas and
 133,null,null,I am alone and quite frankly I needed it .
@@ -631,27 +631,27 @@
 181,null,null,Well if you have made it this far I thank you sincerely ..
 182,null,null,I just really needed to vent .
 20 9
- (0, 0),
+ (7, 6),
 1,null,null,Mum is questions are relentless My mum is always asking me '
 2,null,null,How is blahblah from high school ? ' '
 3,null,null,Are you meeting up with blahblahblah this winter ? ' '
 4,null,null,Have you spoken to blahblooh ? '
 5,null,null,No mum .
 6,null,null,None of them want to know me .
-7,null,null,They ignore me , do not reply to my messages and .
+7,depressed,ignore me,They ignore me , do not reply to my messages and .
 8,null,null,do not want to meet up
 9,null,null,It is embarrassing having to explain it all the time .
 21 7
- (0, 0),
+ (4, 3),
 1,null,null,Being an adult fucking blows , working a shit job that keeps me poor making me want to just jump in front of a bus Seriously struggling to see why I would want to engage in living when it is so menial and relatively pointless .
 2,null,null,Ca not see any friends as I live so far away and my family simply do not know how to support me .
 3,null,null,Working at a shit paying job with zero prospects and massive student debt , how can I possibly look forward to anything in the future when the present is always painful .
-4,null,null,Mental illness is just poisoning every aspect of my world and
+4,depressed,Mental illness,Mental illness is just poisoning every aspect of my world and
 5,null,null,I can not be fucked to fight it
 6,null,null,i just wish I could live more on my own terms
 7,null,null,but apparently that is selfish and naive
 22 31
- (0, 0),
+ (23, 1),
 1,null,null,My dad died today
 2,null,null,So I am 16 , coming on 17 next month .
 3,null,null,Today my dad died at 42 .
@@ -674,7 +674,7 @@
 20,null,null,My dad .
 21,null,null,My * dad .
 22,null,null,*
-23,null,null,To say my world is crashing around me is an understatement .
+23,depressed,world is crashing around me,To say my world is crashing around me is an understatement .
 24,null,null,I am just a fucking kid , going through my own battles with myself and now my dad is just * gone .
 25,null,null,*
 26,null,null,I did not have the best relationship with him but
@@ -684,33 +684,33 @@
 30,null,null,Everything is numb .
 31,null,null,I am lost .
 23 8
- (0, 0),
+ (7, 7),
 1,null,null," You do not have it bad enough"/"You only think about yourself .
 2,null,null," Got into a discussion with my SO because of my depression / anxiety
 3,null,null,They told me I do not have it bad enough
 4,null,null,and if I were worse off I would get my shit together .
 5,null,null,So something in me snaps
 6,null,null,and I admit I would actually rather be dead ( whoops ) .
-7,null,null,This leads to them telling me I am only thinking about myself and asking me how I believe they feel when I tell them I want to die .
+7,depressed,want to die,This leads to them telling me I am only thinking about myself and asking me how I believe they feel when I tell them I want to die .
 8,null,null,Anyone else got to hear stuff like this ?
 24 8
- (0, 0),
+ (6, 3),
 1,null,null,I am lost hahaha
 2,null,null,I do not even know why I posted this .
 3,null,null,I broke up with my gf today .
 4,null,null,I thought I was happy about it .
 5,null,null,I think is the right choice .
-6,null,null,A month of cutting and self hate is enough .
+6,depressed,self hate,A month of cutting and self hate is enough .
 7,null,null,But now I still feel it ..
 8,null,null,And I want to cut again .
 25 17
- (0, 0),
+ (6, 6),
 1,null,null,I have no friends This is not an over dramatic statement .
 2,null,null,I truly have no friends .
 3,null,null,Throughout the years I have grown a part from people and .
 4,null,null,I have distanced myself from people I felt
 5,null,null,were toxic
-6,null,null,I have had my heart broken by a few friends .
+6,depressed,heart broken,I have had my heart broken by a few friends .
 7,null,null,But right now I am sitting here looking at this funny meme I wanted to share
 8,null,null,and I realized I have no one to send it to .
 9,null,null,I hope all of this makes sense one day .
