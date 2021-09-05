@@ -723,10 +723,10 @@
 16,null,null,The meme is quite funny , I am going to try to send it to everyone who asked .
 17,null,null,Cheers
 26 23
- (0, 0),
+ (3, 7),
 1,null,null,Constant battle between ambition and .
 2,null,null,not wanting to live
-3,null,null,Since I was about 12 I have had recurring suicidal thoughts .
+3,depressed,suicial thoughts,Since I was about 12 I have had recurring suicidal thoughts .
 4,null,null,The thing is , I do not have low self esteem or anything of that sort , it is actually quite the opposite
 5,null,null,and I always joke about being a narcissist .
 6,null,null,I may not be an actual narcissist , but
@@ -748,10 +748,10 @@
 22,null,null,I desire since I would have then achieved my goal in life , or if that would finally bring me the contentment I seek .
 23,null,null,I suppose it would be the former since I can never be content .
 27 10
- (0, 0),
+ (3, 3),
 1,null,null,I am not sad .
 2,null,null,I am not sad , but
-3,null,null,I am lost and have no motivation in doing anything .
+3,depressed,no motivation,I am lost and have no motivation in doing anything .
 4,null,null,It is hurting my school work , and
 5,null,null,I am losing my grades .
 6,null,null,The only thing I want to do is play video games all day .
@@ -760,8 +760,8 @@
 9,null,null,they think I am faking and their insurance is awful .
 10,null,null,I do not know anymore .
 28 15
- (0, 0),
-1,null,null,Unstuck yourself I used to be stuck in negative mood and had suicide plan at one point .
+ (1, 2),
+1,depressed,negative mood,Unstuck yourself I used to be stuck in negative mood and had suicide plan at one point .
 2,null,null,I did not see the point of doing anything nor meaning of life itself .
 3,null,null,One day a light bulb went off .
 4,null,null,I realize the world is much bigger than any of us could see or imagine from our corner at a given time .
@@ -777,8 +777,8 @@
 14,null,null,Put left foot before right foot , then next ..
 15,null,null,You will feel better soon once you stop feeling by start doing .
 29 23
- (0, 0),
-1,null,null,I am so fucking lonely ..
+ (1, 3),(1, 14),
+1,depressed,lonely,I am so fucking lonely ..
 2,null,null,My husband is my best friend .
 3,null,null,He s my dude .
 4,null,null,And when he s busy I have friends to fall back on as well .
@@ -802,8 +802,8 @@
 22,null,null,but i feel like shit tlr :
 23,null,null,Husband plays games : : stops communicating with me : : Realized he s my only true friend .
 30 8
- (0, 0),
-1,null,null,I feel like I am a terrible person for being sad
+ (1, 5),(1, 7),
+1,depressed,sad,I feel like I am a terrible person for being sad
 2,null,null,My life is going fine : I have solid grades , I hardly have to study , and
 3,null,null,I am financially stable .
 4,null,null,However , even though everything is going great I am still sad every day , and .
