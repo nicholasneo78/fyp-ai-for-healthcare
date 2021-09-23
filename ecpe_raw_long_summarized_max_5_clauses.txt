@@ -1069,262 +1069,173 @@
 3,null,null,and I feel so hurt 
 4,null,null,I feel like I am missing out on something 
 637 3
- (0, 0),
-1,null,null,I am so lonely that I sometimes just want to talk to the dead 
+ (1, 1),
+1,depressed,lonely,I am so lonely that I sometimes just want to talk to the dead 
 2,null,null,I am able to talk to the dead
 3,null,null,and I have seen many spirits before 
 638 3
- (0, 0),
-1,null,null,could this ms idea just be mental  turning into a physical problem with my limbs moving right when i start falling asleep 
+ (1, 1),
+1,depressed,mental,could this ms idea just be mental  turning into a physical problem with my limbs moving right when i start falling asleep 
 2,null,null,i do know  when i start falling asleep  i start dreaming
 3,null,null,then i suddenly move the limb i move in the dream 
 640 4
- (0, 0),
-1,null,null,The result of this declination helped obstruct all aspects of my social life  causing an abrupt  painful end to many friendships I endeared 
+ (1, 2),
+1,depressed,painful,The result of this declination helped obstruct all aspects of my social life  causing an abrupt  painful end to many friendships I endeared 
 2,null,null,The result of all this lead not only to my choice of isolation  but even if I chose not to isolate myself  I still had damaged relationships so much  that any attempts to make amends  and or repair former friendships  were futile 
 3,null,null,Anyways  one day I just snapped  my ability to process information  perform simple math equations  
 4,null,null,remember things I had JUST thought of seconds before  concentrate  quick wit  and confident decision making had all been impaired immensely
 641 2
- (0, 0),
-1,null,null,Feelings of isolation  even among friends
+ (1, 1),
+1,depressed,isolation,Feelings of isolation  even among friends
 2,null,null,How do you deal with the feeling that you do not belong anywhere 
 643 4
- (0, 0),
+ (4, 2),
 1,null,null,Tried getting a masters degree
 2,null,null,but it is not working out so far 
 3,null,null,Anyways what i am trying to say is that on paper my life seems ok  but
-4,null,null,i have tried a few therapists  medications and nothing is getting me out of this hole of low mood  motivation  and occasional thoughts 
+4,depressed,low mood,i have tried a few therapists  medications and nothing is getting me out of this hole of low mood  motivation  and occasional thoughts 
 644 1
- (0, 0),
-1,null,null,just wondering  if there is anyone out there at this time  how do you stop yourself from self  harming when the going gets so tough you start to disassociate 
+ (1, 1),
+1,depressed,harming,just wondering  if there is anyone out there at this time  how do you stop yourself from self  harming when the going gets so tough you start to disassociate 
 645 5
- (0, 0),
-1,null,null,Struggled with depression and anxiety for 3 years and made it through Hi everyone  I just wanted to share my experiences with depression and anxiety in the hope it might give someone else a reason to keep going 
+ (1, 2),
+1,depressed,depression and anxiety,Struggled with depression and anxiety for 3 years and made it through Hi everyone  I just wanted to share my experiences with depression and anxiety in the hope it might give someone else a reason to keep going 
 2,null,null,I have struggled with severe depression and anxiety for the past three years and
 3,null,null,it is honestly been the most difficult thing I have ever dealt with 
 4,null,null,Depression is a fucking bitch  and
 5,null,null,even now  when I actually feel happy and loved and excited for my future  I am not naive enough to think that I will never have to struggle with my mental health again 
 646 1
- (0, 0),
-1,null,null,Whenever I reach out to someone about my depression  it seems like they never tell me the things that I want to hear 
-647 4
- (0, 0),
-1,null,null,I was 12 back then  so my dad had the funds and everything
-2,null,null,but he never wanted to take me to the dentist which went unnoticed for 4 years and
-3,null,null,just a chip on my tooth became a huge problem  I got a gap and
-4,null,null,they look uglier than they did 
-648 3
- (0, 0),
-1,null,null,I could probably go a month without saying anything or talking to anyone and
-2,null,null,no one would even care or notice
-3,null,null, I need social interaction like anyone else  but what do I do if I can not get it 
+ (1, 1),
+1,depressed,depression,Whenever I reach out to someone about my depression  it seems like they never tell me the things that I want to hear 
 650 2
- (0, 0),
+ (2, 2),
 1,null,null,Spilled my coffee 
-2,null,null,My thought process is like this  when I wake up and feel like dying  at least the spilled coffee gives me something to do in the mean time 
-651 4
- (0, 0),
-1,null,null,we all would like to say hey
-2,null,null,
-3,null,null,but as I write this I am crying like a little baby  and
-4,null,null,this baby is a 46 year old 
-652 2
- (0, 0),
-1,null,null,Just wondering if there is anything  and
-2,null,null,I really do mean anything  on the internet that is helpful for depression 
+2,depressed,dying,My thought process is like this  when I wake up and feel like dying  at least the spilled coffee gives me something to do in the mean time 
 653 4
- (0, 0),
+ (2, 3),
 1,null,null,i do not really know my feelings about it
-2,null,null,but i think it is one of the reasons I am depressed 
+2,depressed,depressed,but i think it is one of the reasons I am depressed 
 3,null,null,my psychiatrist thinks i have some repressed memory
 4,null,null,but i do not know what to do about it 
 655 4
- (0, 0),
+ (2, 2),
 1,null,null,I see people with successful careers  homes  families at my age  yet
-2,null,null,I feel like I am just going day to day growing older with nothing to look forward to 
+2,depressed,nothing,I feel like I am just going day to day growing older with nothing to look forward to 
 3,null,null,My hobbies do not feel fulfilling any longer and
 4,null,null,sometimes I just want to sleep the morning away mainly to make the day shorter 
 658 1
- (0, 0),
-1,null,null,I swore to myself that I will not be dealing with depression by the time I will be 40 
+ (1, 1),
+1,depressed,depression,I swore to myself that I will not be dealing with depression by the time I will be 40 
 660 3
- (0, 0),
-1,null,null,That every feeling ache or pain is something horrible 
+ (1, 1),
+1,depressed,pain,That every feeling ache or pain is something horrible 
 2,null,null,I do not want to cry anymore or feel like this I just want to feel like myself again 
 3,null,null,Has anyone been through this  these feelings 
 662 4
- (0, 0),
+ (2, 3),
 1,null,null,I am 30 years old and 
-2,null,null,have lived with depression  dysthymia my whole life
+2,depressed,depression,have lived with depression  dysthymia my whole life
 3,null,null,I am going through yet another depressive spell where I can barely function and 
 4,null,null,come home after a high  powered job with headaches and complete mental exhaustion
 663 3
- (0, 0),
-1,null,null,Last night was the first time I have felt really suicidal in a while  mostly I have just been miserable and have not even been motivated to plan my suicide  
+ (1, 1),
+1,depressed,suicidal,Last night was the first time I have felt really suicidal in a while  mostly I have just been miserable and have not even been motivated to plan my suicide  
 2,null,null,I never thought the potential for another treatment would actually make me more suicidal  but
 3,null,null,here we are 
 664 3
- (0, 0),
-1,null,null,I want a cat so much due to depression and loneliness 
+ (1, 1),
+1,depressed,depression and loneliness,I want a cat so much due to depression and loneliness 
 2,null,null,Should I just get a cat for the sake of my health  or
 3,null,null,should I endure the wait a little longer so things can settle down a bit more 
 666 1
- (0, 0),
-1,null,null,As I am on my self improvement journey  even though I am making progress  I hear a voice in my head telling me horrible thoughts 
-667 1
- (0, 0),
-1,null,null,I go through days where I feel better knowing that there is nothing for me to screw up 
-668 2
- (0, 0),
-1,null,null,
-2,null,null,I feel like I do not have a heart anymore  or a soul  or a personality  whatever 
-669 2
- (0, 0),
-1,null,null,Being a teenager I do not have really have the ability to seek help on my own  and
-2,null,null,there is no way that I am going to tell my parents 
-670 2
- (0, 0),
-1,null,null,I also know or have been told  we all dream every night
-2,null,null, it is a fact  we just do not remember them 
-671 4
- (0, 0),
-1,null,null,Not sure I got that much out of it  but
-2,null,null,maybe I did not give it enough time 
-3,null,null,I was doing so well for a while  but
-4,null,null,in the last week or two  I can feel myself sliding back into it 
+ (1, 1),
+1,depressed,horrible,As I am on my self improvement journey  even though I am making progress  I hear a voice in my head telling me horrible thoughts 
 672 1
- (0, 0),
-1,null,null,Depression is where you hurt  crawl on the floor crying  grabbing on to dear life alone in your dark room with your thoughts  too tired to do anything and then go to bed only to rise again to pretend that nothing happened 
+ (1, 1),
+1,depressed,hurt,Depression is where you hurt  crawl on the floor crying  grabbing on to dear life alone in your dark room with your thoughts  too tired to do anything and then go to bed only to rise again to pretend that nothing happened 
 674 3
- (0, 0),
+ (2, 3),
 1,null,null,I used to know exactly what I wanted to do in life  but
-2,null,null,now when I look foreword all I see is eventual suicide 
+2,depressed,suicide,now when I look foreword all I see is eventual suicide 
 3,null,null,I just want to be clear that the only reason I am still on this earth is that I know suicide would crush my family 
-675 4
- (0, 0),
-1,null,null,I can show emotions  but 
-2,null,null,feel nothing inside
-3,null,null,I can not remember anything happened to me last 4 days 
-4,null,null,Same with feelings 
 676 2
- (0, 0),
+ (2, 1),
 1,null,null,What do you do when you will not answer your phone being that only the bill collector is calling  cause you are not able to pay the credit that s pilling up that helps you survive  being that you can not work or can not make money cause of
-2,null,null,no interest too cause of lack of motivation  cause the thoughts running through your head being that you can not talk to anyone  or that you will not  or that you are disappointed  or that you feel like a burden 
+2,depressed,lack of motivation,no interest too cause of lack of motivation  cause the thoughts running through your head being that you can not talk to anyone  or that you will not  or that you are disappointed  or that you feel like a burden 
 677 2
- (0, 0),
-1,null,null,I have previously received some CBT for depression and OCD but
+ (1, 1),
+1,depressed,depression,I have previously received some CBT for depression and OCD but
 2,null,null,that stopped when I went to university in Sept 2005 
 678 3
- (0, 0),
-1,null,null,Why put yourself through an existence of pain 
+ (2, 1),
+1,depressed,pain,Why put yourself through an existence of pain 
 2,null,null,How many lives have been lived in pain and 
 3,null,null,died in them
 679 2
- (0, 0),
-1,null,null,I have been suicidal and depressed for the longest time 
+ (1, 2),
+1,depressed,suicidal,I have been suicidal and depressed for the longest time 
 2,null,null,I have lost all emotion other than sadness and depression 
 680 3
- (0, 0),
+ (3, 1),
 1,null,null,i have always wanted to get married and have the kids  but
 2,null,null,it looks like that will never happen and
-3,null,null,i feel so hopeless 
+3,depressed,hopeless,i feel so hopeless 
 681 5
- (0, 0),
+ (3, 3),
 1,null,null,My goal in life is to finally feel safe I am at my boyfriends house 
 2,null,null,I want a job 
-3,null,null,I want to not feel like i m just laying down while everything falls apart on top of me 
+3,depressed,falls apart,I want to not feel like i m just laying down while everything falls apart on top of me 
 4,null,null,I want to feel safe and happy and like I give back and help people 
 5,null,null,I do nt want to waste my life 
-682 3
- (0, 0),
-1,null,null,I Saw Someone Jump
-2,null,null,Today I was driving over the main bridge in my city this afternoon 
-3,null,null,This bridge has been used before 
 683 5
- (0, 0),
+ (3, 5),
 1,null,null,So ignoring the pun  I seriously have no interests in what carreer I want when I am older
 2,null,null, i m 17  kicked out of collage 
-3,null,null,I do not know if this is he depression
+3,depressed,depression,I do not know if this is he depression
 4,null,null,but after working overtime on my shitty Saturday job I have had 5days work in a row and without sounding like a lazy cunt who has never worked 
 5,null,null,I do not want to do something I do not want to do  I do not understand why the world is this way and it makes me super fucking depressed 
 684 2
- (0, 0),
+ (2, 1),
 1,null,null,I do not have the motivation for anything anymore 
-2,null,null,I do not even feel like crying anymore  i just feel like a mess 
-685 4
- (0, 0),
-1,null,null,When someone shouts at me  I cry and 
-2,null,null,can not stop it I am definitely deleting this thread later
-3,null,null, ampnbsp  Basically  for as long as I can remember I have always cried when someone shouts at me 
-4,null,null, ampnbsp  Edit  thank you everyone for reading and actually posting to help AND sharing your own experiences 
-686 1
- (0, 0),
-1,null,null,Why would people keep telling me you are a good person  I do not feel like I am a good person 
+2,depressed,mess,I do not even feel like crying anymore  i just feel like a mess 
 687 2
- (0, 0),
-1,null,null,It is making me feel useless and sad and reinforcing the notion that no matter how hard I try I will never be good enough  that maybe I deserve to be alone  etc 
+ (1, 1),
+1,depressed,useless,It is making me feel useless and sad and reinforcing the notion that no matter how hard I try I will never be good enough  that maybe I deserve to be alone  etc 
 2,null,null,While the latter option gives me the peace of mind to think it is not me  that I had enough self worth to stand up for myself and not cave to my friends abusive reinforcement  I really do not want to lose her as a friend 
-689 5
- (0, 0),
-1,null,null,Girlfriend on antidepressants no affection
-2,null,null,Hi everyone  my GF of 2 years has been on antidepressants for about 15 months  there is a definite lack of sex drive since then  but
-3,null,null,I understand that can be a side affect
-4,null,null,and she is acknowledged it
-5,null,null,and we have spoke about it 
 690 3
- (0, 0),
-1,null,null,I had really bad anxiety attacks
+ (1, 2),
+1,depressed,anxiety,I had really bad anxiety attacks
 2,null,null, panic attacks when I am on the first couple days of my period 
 3,null,null,I mean bad 
-692 3
- (0, 0),
-1,null,null,I can not make it better
-2,null,null,I am tired of nearly every aspect of my life 
-3,null,null,I will never have the kind of money it would take to change my life in ways that might make me happier 
-694 2
- (0, 0),
-1,null,null,I do not remember the last time I was truly happy 
-2,null,null,I am not happy  I never will be 
 695 5
- (0, 0),
-1,null,null,I literally could not give a shit if i live or die 
+ (1, 5),
+1,depressed,could not give a shit,I literally could not give a shit if i live or die 
 2,null,null,We do not mean shit 
 3,null,null,I do not mean shit 
 4,null,null,Life does not mean JACK FUCKING SHIT 
 5,null,null,When nothing has any meaning then why should I do anything 
-696 5
- (0, 0),
-1,null,null,Although she was kind of out of my league and
-2,null,null,I could tell she was not into me romantically
-3,null,null, I never minded just being her friend because she is really sweet and mature compared to most other people at my school 
-4,null,null,Unfortunately  sometime towards the end of the school year  she started dating another guy and
-5,null,null,after that she did not really seem interested in being my friend 
 697 4
- (0, 0),
+ (2, 3),
 1,null,null,I  18F  finally feel like i am getting better
-2,null,null,I was diagnosed with depression about 4 years ago 
+2,depressed,depression,I was diagnosed with depression about 4 years ago 
 3,null,null,Honestly every single day for the past 5 years I have debated killing myself  I tried a few times
 4,null,null,but I was unsuccessful 
-698 2
- (0, 0),
-1,null,null,Had a good dream  then I woke up Last night
-2,null,null,I had a really good dream 
 702 4
- (0, 0),
-1,null,null,It does not seem possible that my suffering can grow but
+ (1, 3),
+1,depressed,suffering,It does not seem possible that my suffering can grow but
 2,null,null,I know that if I do not continue or succeed  it will 
 3,null,null,I honest to goodness do not know what is wrong with me 
 4,null,null,That you have to have the bad with the good 
 704 4
- (0, 0),
-1,null,null,One thing I reflected on was that I live in a family of 8 people  and maybe that is why I feel so claustrophobic and irritable around lots of people 
+ (1, 2),
+1,depressed,irritable,One thing I reflected on was that I live in a family of 8 people  and maybe that is why I feel so claustrophobic and irritable around lots of people 
 2,null,null,The thing is  I can not stand living with somebody I hardly know either 
 3,null,null,The last thing I need is a complete stranger sharing my quarters 
 4,null,null,Then again  I will probably become a complete hermit during the school year 
 705 2
- (0, 0),
+ (2, 1),
 1,null,null,The way we broke up was the worst thing to happen to any person 
-2,null,null,In a way it us insanely scary that depression can eventually turn into this 
+2,depressed,depression,In a way it us insanely scary that depression can eventually turn into this 
 709 5
  (0, 0),
 1,null,null,I am having a problem with my depression 
