@@ -1862,128 +1862,61 @@
  (1, 2),
 1,depressed,cutting,i stopped cutting for 9 months 
 2,null,null,i just need someone to talk to that understands 
-1101 2
- (0, 0),
-1,null,null,I wanted to build a future good enough to stay with my mother again 
-2,null,null,I just want it to end 
 1102 2
- (0, 0),
-1,null,null,I think i might be depressed  even when i am having an ok life  is it possible 
+ (1, 2),
+1,depressed,depressed,I think i might be depressed  even when i am having an ok life  is it possible 
 2,null,null,I still feel joy and moods in life  like eating good food  cry from very sob movies  but at the end of the day there is always something  it is not feeling the same like how i had felt my entire life 
 1104 3
- (0, 0),
-1,null,null,Try to stop identifying with your thoughts Dude  I know how it is to be depressed 
+ (1, 2),
+1,depressed,depressed,Try to stop identifying with your thoughts Dude  I know how it is to be depressed 
 2,null,null,Currently i m numb because of anti depressants and 
 3,null,null,possibly supressing so many thoughts in my young life
-1107 4
- (0, 0),
-1,null,null,Random girl asked me awful question today 
-2,null,null,I am nervous about sharing this though 
-3,null,null,I do not know if this is the right sub for this either
-4,null,null, I just needed to get this off my chest 
-1108 3
- (0, 0),
-1,null,null,Last year was bad 
-2,null,null,I guess I just want someone to know
-3,null,null,I was hear 
 1110 4
- (0, 0),
-1,null,null,I do not know if it is worth holding it or living anymore  i am not suicidal
+ (1, 2),
+1,depressed,suicidal,I do not know if it is worth holding it or living anymore  i am not suicidal
 2,null,null,but i need to fucking vent  cause i am fucking going crazy
 3,null,null, i ca nt fucking sleep at night  and when i do  i feel fucking sad the whole fucking day 
 4,null,null,Fuck this shit 
-1111 2
- (0, 0),
-1,null,null,Since she is at this big end of the school year party she told me not to talk to her about this as she does not want her night ruined  and 
-2,null,null,then literally told me to  go see a psychologist 
 1112 2
- (0, 0),
-1,null,null,I ve had a fucking miserable time in the last 21 years 
-2,null,null,I ve had a fucking terrible time  people to chat too would be nice 
-1114 5
- (0, 0),
-1,null,null,We are YourAmigo Hi 
-2,null,null,I am AM
-3,null,null,and I am writing to introduce a new initiative named YourAmigo 
-4,null,null,We do not accept donations  though if anyone wants to help us or has any suggestions  feel free to contact us 
-5,null,null,In your first email  you can tell us anything you want  though a little bit of your story is always welcomed  though not required   
-1115 5
- (0, 0),
-1,null,null,I had moved out of my hometown  had lots of friends  a good relationship  I lost tons of weight and was confident for the first time ever  I traveled and 
-2,null,null,worked for fun instead of working as a means of survival
-3,null,null,I look at old pictures from times past with old friends  destinations
-4,null,null,I went too
-5,null,null,and I want to cry because I just wish I could go back 
+ (1, 1),
+1,depressed,miserable,I ve had a fucking miserable time in the last 21 years 
+2,null,null,I ve had a fucking terrible time  people to chat too would be nice  
 1116 2
- (0, 0),
-1,null,null,I made a word cloud of all my depressive posts over the past three years 
+ (1, 1),
+1,depressed,depressive,I made a word cloud of all my depressive posts over the past three years 
 2,null,null,I think it is noteworthy that some of the biggest words in the cloud are negative 
 1117 2
- (0, 0),
+ (2, 2),
 1,null,null,I wish I could have ended my life
-2,null,null,so I do not have to wake up with so much pain everyday 
+2,depressed,pain,so I do not have to wake up with so much pain everyday 
 1118 4
- (0, 0),
+ (2, 1),
 1,null,null,My new kitten disapeared this night and
-2,null,null,i can not help feeling like trash 
+2,depressed,trash,i can not help feeling like trash 
 3,null,null,Last week i finally decided to adopt a new cat after so much time
 4,null,null,and she just disapeared while I was out of the house 
-1119 1
- (0, 0),
-1,null,null,I do not know if it is in my head or if some people are really like this 
-1120 5
- (0, 0),
-1,null,null,I have 3 children that love me 
-2,null,null,I have foster children that love me 
-3,null,null,right now  I am hanging on by a thread 
-4,null,null,I do not want to be around my family 
-5,null,null,I want to go 
-1122 4
- (0, 0),
-1,null,null,Based on looking at objective measures  I should be feeling pretty content right now  but
-2,null,null,I can not seem to be happy about it  and only about the things I hope that I will work towards in the future 
-3,null,null,but I still just feel fat and 
-4,null,null,have not been able to feel anything good about the weight I have actually lost
 1123 1
- (0, 0),
-1,null,null,I never understand the idea of people attempting to shame me out of my depression 
-1124 5
- (0, 0),
-1,null,null,Psychiatrist of 6 years terminated me as a patient and 
-2,null,null,is refusing refills of Lamictal because I went to outpatient rehab
-3,null,null,My psychiatrist just called me and 
-4,null,null,told me she is terminating me as a patient and is unable to see me or refill my lamictal
-5,null,null,because I was prescribed Ativan by another physician
+ (1, 1),
+1,depressed,depression,I never understand the idea of people attempting to shame me out of my depression 
 1126 3
- (0, 0),
-1,null,null,But a part of me wants to know that someone else experiences depression the same way  as some small solace 
+ (2, 1),
+1,depressed,depression,But a part of me wants to know that someone else experiences depression the same way  as some small solace 
 2,null,null,However  in every waking moment I have a weight emanating from my core  like a gravitational pull sucking in my ability to want anything meaningful 
 3,null,null,Romance is off the cards because someone who wants to date someone who does not want anything from life  probably also is not worth being with 
-1127 4
- (0, 0),
-1,null,null,Take a deep breath 
-2,null,null,Take a moment right now  take a deep breath and 
-3,null,null,appreciate how there is so much effort taken in making the world as it is
-4,null,null,Remember that after you acomplish  or not  all your goals we are still people living with other people 
-1128 3
- (0, 0),
-1,null,null,Dead Mom  Schizophrenic Father 
-2,null,null,I could not go to my father because he has severe schizophrenia
-3,null,null,and it is not safe to be around him 
 1129 5
- (0, 0),
-1,null,null,Little sister has depression  what do I do 
+ (1, 2),
+1,depressed,depression,Little sister has depression  what do I do 
 2,null,null,I just discover the past summer that my little sister  14  has depression and is now cutting her self with razor blades 
 3,null,null,She is being bullied as well by one guy at school and confidant and 
 4,null,null,has depression
 5,null,null,is cutting himself as well
 1130 1
  (0, 0),
-1,null,null,Been independent since 17 I have been living with my girlfriend since I was 18 and 1 year a lone 
+1,depressed,alone,Been independent since 17 I have been living with my girlfriend since I was 18 and 1 year alone 
 1131 1
- (0, 0),
-1,null,null,I will be ugly no matter what so I guess hair or no hair will not really make a difference 
+ (1, 1),
+1,depressed,ugly,I will be ugly no matter what so I guess hair or no hair will not really make a difference 
 1132 2
- (0, 0),
-1,null,null,Need help with suicidal wife  please 
+ (2, 1),
+1,depressed,suicidal,Need help with suicidal wife  please 
 2,null,null,I told her months ago that I was not sure if I could still be in a relationship with her anymore 
