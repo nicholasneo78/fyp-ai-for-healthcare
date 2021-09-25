@@ -207,10 +207,6 @@
 1,depressed,not be judged,I made this account so that I would not be judged by the people I know 
 2,null,null,Cause if I do not like me
 3,null,null, why would anyone else 
-64 2
- (0, 0),
-1,null,null,How do you put your heart and souls into something for 5  years  and 
-2,null,null,get treated like you do not exist there
 66 3
  (3, 3),
 1,null,null,Determined to cut the string but
@@ -972,7 +968,7 @@
 2,null,null,I am just not the same person I used to be since he left me  
 318 3
  (1, 1),
-1,depressed,intenal struggle,I wish the best to those dealing w an internal struggle like mine 
+1,depressed,internal struggle,I wish the best to those dealing w an internal struggle like mine 
 2,null,null,I know how hard it can hit at times 
 3,null,null,Depression hurts 
 320 1

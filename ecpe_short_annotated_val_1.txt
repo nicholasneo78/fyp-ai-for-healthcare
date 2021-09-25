@@ -12,7 +12,7 @@
 1,depressed,mental breakdown,Being so fucking composed all the time is getting tiring  I need to have a mental breakdown at some point
 334 2
  (1, 1),
-1,depressed,mentally totured,I feel so mentally tortured right now 
+1,depressed,mentally tortured,I feel so mentally tortured right now 
 2,null,null,Dunno what to do  Feel completely out of control 
 335 6
  (2, 3),
@@ -77,7 +77,7 @@
 3,null,null,I have been feeling it for days 
 4,null,null,Back in isolation I go 
 352 3
- (0, 0),
+ (3, 2),
 1,null,null,I hate this feeling  but
 2,null,null,I brought it on myself
 3,depressed,hurt,I hope that those I have hurt will not give up on me  
@@ -197,8 +197,8 @@
 6,null,null,takes everything
 7,depressed,hurts,She the one that I am scared also who hurts me the most  
 395 1
- (0, 0),
-1,depressed,just be myself,In times like this is when I wonder how it will be like to just be by myself  
+ (1, 1),
+1,depressed,just be by myself,In times like this is when I wonder how it will be like to just be by myself  
 396 2
  (2, 1),
 1,null,null,This kind of abuse is UNBELIEVABLE and an absolute disgrace 
@@ -261,7 +261,7 @@
 5,null,null, I have not travel to any places like I used to 
 6,null,null,I need to detox 
 416 1
- (0, 0),
+ (1, 1),
 1,depressed,extremely over,Being extremely over my other half agreeing to divorce instead of coming to peace then someone asks if I am okay 
 417 5
  (2, 1),
@@ -448,5 +448,5 @@
 3,null,null,Chanting  sleeping most of week
 4,null,null,Netflix  chill in bed  repeat  wee 
 483 1
- (0, 0),
+ (1, 1),
 1,depressed,exhausting,Depression is like wearing a one of those weighted blankets makes it feel real good to lay in bed for 16 hours but also makes it pretty exhausting to do anything outside of that

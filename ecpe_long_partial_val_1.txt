@@ -1,0 +1,495 @@
+74 88
+ (1, 5),(1, 8),
+1,depressed,depression,Hi  I am pretty sure I am suffering from depression  and 
+2,null,null,probably have been for the last 18 months or so
+3,null,null,It is only been lately that I feel like the rug has really been jerked out from under me  though 
+4,null,null,I think it started in mid2004 when I became seriously ill 
+5,null,null,Between June and September 2004  I spent three weeks in the hospital  umpteen visits to the E  R  and finally  major surgery to correct the problem 
+6,null,null,Physically  I am fine now 
+7,null,null,But we had no health insurance  long story   and
+8,null,null,when the hospital bills started rolling in  we tried our best to pay the bills  but there was just no way 
+9,null,null,We ended up filing bankruptcy  I lost my home business  and
+10,null,null,we very nearly lost our home 
+11,null,null,Ever since then  I have felt like I am falling down a dark tunnel  even though the bankruptcy is over with 
+12,null,null,I was drinking part of this time  but 
+13,null,null,have stopped  thinking that may have been causing the problem
+14,null,null,But it is actually become worse since I have stopped 
+15,null,null,Here is my  symptoms  
+16,null,null,I do not usually have trouble falling asleep  but
+17,null,null,I can not seem to stay asleep for more than a couple of hours 
+18,null,null,It is hard to go back to sleep  so
+19,null,null,I usually just get up 
+20,null,null,Weight gain because I find myself eating even when I am not hungry 
+21,null,null,The  comfort food  thing  I guess 
+22,null,null,I tend to be a  stress  eater  and
+23,null,null,goodness knows I have had a lot of that lately 
+24,null,null,I used to enjoy camping and reading books  etc    but
+25,null,null,I do not care about any of that anymore 
+26,null,null,I could not sit down now and 
+27,null,null,read a book no matter I wanted how much to
+28,null,null,I get through 5 or 6 pages  and 
+29,null,null,totally lose interest
+30,null,null,That is depressing in itself  because I used to love reading so much 
+31,null,null,I have no desire to get out and do anything 
+32,null,null,I literally close myself up in my spare bedroom every waking hour  only coming out to use the bathroom and to fix supper for my husband 
+33,null,null,I feel like I have nothing to look forward to 
+34,null,null,I am not happy  but
+35,null,null,I can not pinpoint exactly what would make me happy 
+36,null,null,I honestly can not think of anything 
+37,null,null,I have no energy whatsoever 
+38,null,null,I have been dealing with a TON of guilt over the bankruptcy 
+39,null,null,After all  the bankruptcy would not have happened if I had not gotten sick  you know 
+40,null,null,I feel horrible for dragging my husband is credit down along with mine  but
+41,null,null,the way things were  I could not file bankruptcy by myself 
+42,null,null,Our credit was PERFECT until I got sick 
+43,null,null,My husband sold a bunch of his personal belongings to help pay bills  as did I  but
+44,null,null,it was so unfair for him to have lost his stuff on account of me 
+45,null,null,He is never once complained  but
+46,null,null,I still feel terrible 
+47,null,null,I have also been kicking myself for the loss of my home business 
+48,null,null,I can not help but 
+49,null,null,feel like if it had not failed  I could not keep up with it during my illness   that we would not have had to file bankruptcy
+50,null,null,I have never been a crier  but
+51,null,null,I sure feel like it sometimes 
+52,null,null,I can not seem to do anything
+53,null,null, right  these days 
+54,null,null,Irritable  
+55,null,null,Throwing stuff  
+56,null,null,being unreasonable  getting mad about petty things
+57,null,null,The one thing I have not experienced  thankfully  is suicidal thoughts 
+58,null,null,A few random  morbid  thoughts here and  but 
+59,null,null,there
+60,null,null,nothing I would ever act on
+61,null,null,Last night I took several online self  tests  and
+62,null,null,all of them said I had mild to moderate depression 
+63,null,null,One even said severe 
+64,null,null,I guess the next step would be to go to the doctor  but
+65,null,null,I do not have a doctor 
+66,null,null,My sister is taking Zoloft for panic attacks and a PMS disorder  so
+67,null,null,I guess I will ask her who she is seeing 
+68,null,null,What do they do 
+69,null,null,just ask questions similar to the online questionnaires 
+70,null,null,Or 
+71,null,null,I have been reading about all the different kids of medicines  and 
+72,null,null,found the information about Wellbutrin to be the most interesting
+73,null,null,Obviously the doctor would know what I need better than I would  but
+74,null,null,I sure do not want to take something that is going to make me gain even more weight or feel like a zombie 
+75,null,null,At least one good thing  though 
+76,null,null,We do  thankfully
+77,null,null, have insurance now 
+78,null,null,Another issue is my husband and family 
+79,null,null,To them  depression is something that people should be able to  just shake off  
+80,null,null,They do not understand that I CANT seem to  shake it off   otherwise  I gladly would 
+81,null,null,My husband is supportive in other ways  but
+82,null,null,he scoffed when my sister started taking Zoloft 
+83,null,null,To them  if they can not  see  the problem  it does not exist 
+84,null,null,I am sure they do not mean to be  mean   but
+85,null,null,they just do not understand 
+86,null,null,Sorry for rambling 
+87,null,null,Any suggestions or 
+88,null,null,thoughts
+75 13
+ (13, 4),
+1,null,null,I feel alone
+2,null,null,Hi I am writing this here because I feel as if I have no one to talk to
+3,null,null,but it is occurred to me that I am never truly happy with my life 
+4,null,null,I am 19 a male at that I have seem to never be happy as hard as try to be
+5,null,null,it never goes as planned 
+6,null,null,I have no idea
+7,null,null,the root of my problem or problems
+8,null,null,I have tried a number of things plenty of options were given
+9,null,null,and I am just getting deeper and deeper in a hole 
+10,null,null,I am in a house with my mother and my sister
+11,null,null,but I feel like I am in everything I am in alone 
+12,null,null,That is what I hate the most 
+13,depressed,loneliness,The loneliness
+76 31
+ (13, 17),
+1,null,null,How is it going  all who read 
+2,null,null,My name is Greg
+3,null,null, I am 19 and 
+4,null,null,have had depression for basically as long as I remember
+5,null,null,Here is a brief history of my journey through depression and the treatments I have endeavored 
+6,null,null,I began on lexapro 
+7,null,null,It seemed to be helping
+8,null,null,and then it quit on me  or perhaps vice versa  
+9,null,null,After that I tried zoloft  and wellbutrin  but 
+10,null,null,to the same effect
+11,null,null,Then I turned my world to narcotics  mainly  marijuana and DXM  
+12,null,null,They helped ALOT  but
+13,depressed,stigma and guilt,because they are illegal  I felt a constant public stigma and guilt 
+14,null,null,I could not take it  despite the amazing effects of both drugs 
+15,null,null,I am now taking Paxil CR  but
+16,null,null,I am going to quit it because it is not working 
+17,null,null,I am beginning to lose hope altogether 
+18,null,null,It seems apparent to me that SSRIs just are not for me  or maybe I just have not found the right one 
+19,null,null,The real problem with depression is that you have to wait a month on each drug just to see it
+20,null,null,it is going to work 
+21,null,null,Those months can feel like years 
+22,null,null,Anyways  that is who I am 
+23,null,null,I hope to make a few friends here  and 
+24,null,null,a lot of advice as well
+25,null,null,Does anyone one else share these symptoms  if so  and 
+26,null,null,if you think you can help contact me please 
+27,null,null,Chronic fatigue  lack of motivation  desire  inability to enjoy life  insomnia  including the other obvious and supplementing symptoms 
+28,null,null,The real killer is
+29,null,null,I know I have the potential to be someone great  but
+30,null,null,I have to become happy first 
+31,null,null,Greg
+78 12
+ (7, 5),
+1,null,null,drugs are the only thing that make me feel
+2,null,null,okay
+3,null,null,i have done everything under the sun to try and help myself 
+4,null,null,counseling  confiding in anyone who will listen  taken all different types of medication  and
+5,null,null,the only thing that has ever made me feel okay is not being sober 
+6,null,null,idc what it is i will do it 
+7,depressed,hate being sober,i fucking hate being sober 
+8,null,null,i just want to get fucked up and lay in bed and watch shit on my laptop
+9,null,null,and i literally have no reason to be so depressed
+10,null,null,but the only thing that helps is drugs 
+11,null,null,not looking for moral support or anything i just need to vent without being looked down on and judged 
+12,null,null,thx
+79 7
+ (5, 5),
+1,null,null,Has anyone been depression free for 5  years 
+2,null,null,I get better
+3,null,null,then I get much worse  it is a cycle that will not stop 
+4,null,null,I am wondering if there any older redditors that had severe depression as a young adult  and are now completely free from it 
+5,depressed,kill me,Depression is almost certainly going to kill me  whether it is the harmful way I cope to stay alive day to day  or more directly if I by some miracle can get my hands on a gun 
+6,null,null,Is there anyone that has been cured and not worries about depression creeping back 
+7,null,null,How did you do it 
+80 14
+ (6, 11),
+1,null,null,I do not think I was cut out to survive in the world 
+2,null,null,I can not make phone calls 
+3,null,null,I can not drive 
+4,null,null,I can not get a job and 
+5,null,null,work like everyone else
+6,depressed,stressed out,I get stressed out and 
+7,null,null,anxious over everything
+8,null,null,I am 21  only had one job that lasted 3 months 
+9,null,null,I am graduating and 
+10,null,null,leaving college behind soon
+11,null,null,I know I will not be able to make it in the working world like everyone else 
+12,null,null,I do not think I was supposed to live past high school 
+13,null,null,I add nothing to the world 
+14,null,null,I am a leech on society 
+82 17
+ (3, 7),
+1,null,null,Nice to see you too  
+2,null,null,How are you today 
+3,depressed,negativity and darkness,I think you really have hit the mark on what I was trying to express with this question  all the negativity and darkness that is contained in almost every media outlet you can name 
+4,null,null,The disasters you mention  such real human tragedy but the way the media went after it was appalling and seemed to be muddled in politics and ratings 
+5,null,null,As for those forensic shows  ugh 
+6,null,null,I used to be able to watch them but way before this recent  episode  of mine I stopped 
+7,null,null,I could not stand the heartache of knowing what evil lurks out there 
+8,null,null,Where I work now one of the first friends I made was a gentleman who has since retired 
+9,null,null,He told me that he did not read the news  watch TV or listen to the radio  except for light jazz  because he found that to do so was just too much pain  it did not  serve  him to subject himself to that kind of pain 
+10,null,null,He seemed to be generally very happy and upbeat to me so there must be something to it 
+11,null,null,As for your friend  that is a tough one
+12,null,null,but maybe since she is your friend she might understand if you explain to her how incredibly painful her TV choices are on you 
+13,null,null,Does she ever read or 
+14,null,null,post here
+15,null,null,Anyway  it is GREAT talking with you again
+16,null,null,and I look forward to the next chat 
+17,null,null,I hope you have a wonderful day and weekend 
+83 32
+ (30, 15),
+1,null,null,Get myself to be more active  alive 
+2,null,null,So  my depression is getting worse and worse since a few years 
+3,null,null,I am in law school and
+4,null,null,I am in the last year of preparation 
+5,null,null,in our country  this is THE BUSIEST TIME ever for those students 
+6,null,null,like  they start studying at 7 in the morning at stay until 11 in the night at the library 
+7,null,null,nonstop studying for 1  15 years in preparation for the big exams 
+8,null,null,I started last october 
+9,null,null,it is july 
+10,null,null,I have maybe studied on two or three days  seriously 
+11,null,null,the other time  I just sit at home  in a kind of weird freeze 
+12,null,null,I am BORED out of my mind  my brain is longing for some activity  and
+13,null,null,I actually really want to be all busy and studying and feel like I have a purpose 
+14,null,null,It is like I know exactly how important it is now  and
+15,null,null,my brain is screaming at me to get my books out and start doing I want what to do 
+16,null,null,But I just sit here 
+17,null,null,Heck  if I am procrastinating so bad  at least I could have fun  party  travel  meet people 
+18,null,null, see the world
+19,null,null, at least not waste my time or waste it in a way that is at least fun
+20,null,null,But I am still sitting here 
+21,null,null,Like in a shock 
+22,null,null,It feels like it is too late for the studying thing
+23,null,null, exams are in spring
+24,null,null,and I have no idea about the subjects and skip all classes I am paying for 
+25,null,null,and I have no idea what else to do with my time 
+26,null,null,It does not help that over the last two years  I kinda developed an eating disorder with anorexic  bulimic and binge  eating  tendencies that also made my health decline 
+27,null,null,I am constantly thinking about numbers  looking up nutritional infos  reading medical studies  looking at food online  it is taking so much space in my head although I am quite  close to my goal   and
+28,null,null,I should not even worry because if I keep doing what I planned  restrict for another 4  5 weeks  then slowly up my calories until I no longer lose weight  stay at maintenance and start to slowly incorporate exercise to finally be healthy  eating healthy  and exercising to maintain good health   there is no reason to be so occupied with this topic 
+29,null,null,Any idea how to get myself to get up and DO SOMETHING 
+30,depressed,burn down,The sitting around is what is probably making me most depressed  because I watch my life burn down and kind of can not do anything about 
+31,null,null,PLEASE do not suggest to get professional help 
+32,null,null,I know  it is the most rational thing  especially for the eating thing  but right now  I just can not  I really can not
+84 16
+ (4, 13),
+1,null,null,When people ask you what you did for the weekend  or 
+2,null,null,for your birthday  etc
+3,null,null,I have no idea how to respond 
+4,depressed,numb,My emotions have become so numb that I can not feel anything
+5,null,null,so therefore I can not enjoy anything I used to like doing 
+6,null,null,I literally just go to work everyday for 8 hours  
+7,null,null,come home and browse the news and reddit and listen to music  trying to entertain myself but never really succeeding
+8,null,null,There is nothing I can enjoy 
+9,null,null,So when someone asks me what I did I just say some crap like I just relaxed at home or something  I do not know what else to say 
+10,null,null,It is the worst part about depression for me 
+11,null,null,Not being able to enjoy anything 
+12,null,null,I do not even look forward to coming home from work because it is not like I have anything to enjoy at home 
+13,null,null,It is all the same dullness 
+14,null,null,I would probably work 12  14 hours a day seven days a week if I could because it would not bother me at all 
+15,null,null, I am not missing out on anything
+16,null,null,Too bad they do not because they do not want to pay overtime for me of course 
+85 7
+ (2, 1),
+1,null,null,Existing hurts
+2,depressed,distract myself from life,I always feel like I am just trying to distract myself from life with anything I can games  drugs  moving around because sitting down and not being able to do anything 
+3,null,null,often something I do
+4,null,null,just hurts 
+5,null,null,I hate how slow and irrevelent
+6,null,null,I am 
+7,null,null,I am so held up by anxiety and indecision that it is hard to even type
+86 6
+ (6, 6),
+1,null,null,When luck does not work in your favor  and
+2,null,null,neither does bad luck
+3,null,null,So many people die of accidents everyday 
+4,null,null,Those who do not deserve it  
+5,null,null,those who have happy nice lives they want that to live
+6,depressed,wanting to get hit,Yet here I am  wanting to get hit by a bus everytime I cross the road but never do
+88 12
+ (2, 2),
+1,null,null,I am new here  left an introductory ramble in the appropriate section 
+2,depressed,depressed,I have been depressed  both clinically recognized or otherwise  for around 15 years
+3,null,null, I am 20 for the record  
+4,null,null,After 3  4 months of a  good  period I am finding that I am slipping back into that  black hole  
+5,null,null,I am looking for support and very happy to offer everyone all I have to help  even if it is little 
+6,null,null,I have not been to a therapist in 2 years and
+7,null,null,I have not been on medication steadily for an even longer while  although I think I needed both in the meantime save for the past few  happy  months  
+8,null,null,Anyway  take care everyone 
+9,null,null,I know I am new here
+10,null,null,but if anyone feels like they are cracking up  feel free to PM me 
+11,null,null,I am used to the unpleasant ride depression 
+12,null,null,gives people
+89 26
+ (1, 2),
+1,depressed,lonely,I am so fucking unbearably lonely
+2,null,null,I have no job  no friends 
+3,null,null,and nothing even close to an SO 
+4,null,null,I have never even been on a date 
+5,null,null,That is a pipe dream of course
+6,null,null,I would not date someone as disgusting as me
+7,null,null,so why should anyone else in the first place 
+8,null,null,But I can not stop desperately wanting to be loved  to be touched 
+9,null,null,not even sexually necessarily tho that too  but 
+10,null,null,just be held  kissed
+11,null,null,Anyone  I do not give a fuck anymore boy or girl just someone
+12,null,null,anyone please
+13,null,null,It is never happened and
+14,null,null,it feels like it never will 
+15,null,null,I feel like I am starving to death 
+16,null,null,I can not shake this need
+17,null,null,I have never really felt before and
+18,null,null,it is every damn minute 
+19,null,null,it is so damn funny though I shrink away from even the slightest of contact with another human 
+20,null,null,in the rare occasion I am in public
+21,null,null,I bury myself in my phone and 
+22,null,null,hope desperately no one acknowledges me
+23,null,null,no one ever does
+24,null,null,but I am always still afraid they will 
+25,null,null,how fucking pathetic  is not it 
+26,null,null,add this to the list of things that make me wanna rip my skin open
+90 18
+ (5, 5),
+1,null,null,For those on antidepressants  is it working 
+2,null,null,Alternatives to antidepressants 
+3,null,null,Okay so I am going back to a psychiatrist next week for my depression 
+4,null,null,I have been going since high school and
+5,depressed,suicidal ideation,over the years have had depressive thoughts  suicidal ideation  lack of motivation and interest  high anxiety  numbness  hopelessness  etc etc 
+6,null,null,recently it is been coming back 
+7,null,null,I have been on Zoloft which made me feel like a numb zombie and bupropion which I did not feel was working 
+8,null,null,I have also tried Xanax  made me calmer but high  and 
+9,null,null,a mood stabilizer that did not really help
+10,null,null,I have since gotten off medication by my own choice but
+11,null,null,the problems are coming back 
+12,null,null,Generally I do not like rx drugs and
+13,null,null,would rather do it naturally
+14,null,null,but it is not going away 
+15,null,null,My question to people is what antidepressants have worked  how long have u been using them  and 
+16,null,null,has ur depression improved
+17,null,null,Should I take it for the long term 
+18,null,null,And what alternative methods have worked for you guys 
+91 10
+ (5, 2),
+1,null,null,I wish I was 15 again  when nothing really mattered I am 21 now
+2,null,null,and all I want is to be 15 again  when I did not have any worries  when I did not know what depression was  when I had interests  when I did not have existential crisis  when I did not question every little thing about myself
+3,null,null, I was just able to BE 
+4,null,null,Not to say everything was perfect back then  but
+5,depressed,feeling emptier and emptier,every year it starts feeling emptier and emptier 
+6,null,null,Even though my life has technically better  I feel so empty and dead 
+7,null,null,I do not even want to know what my brain will be like in 10 years 
+8,null,null,Even though realistically my life is better off now 
+9,null,null,I still want to die 
+10,null,null,My god  I just want to die
+93 5
+ (4, 2),
+1,null,null,Is it unhealthy to try and solve other peoples issues instead 
+2,null,null,I find that the worse I feel  the more I try and solve other people is problems 
+3,null,null,Is this unhealthy for me 
+4,depressed,mental issues,It is always other people is mental issues that I am unable to fix
+5,null,null,but I feel like I have to try 
+95 64
+ (18, 20),
+1,null,null,Hi  after 2 posts on the DF I am finally beginning to work out the format 
+2,null,null,Excuse the typo is as going through Prozac withdrawals and kind of shaky 
+3,null,null,I am 27 years old  I live in the UK  Studied psychology  trained psychiatric nurse  behavior family therapist  and trainee CB therapist 
+4,null,null,Not sure if I can go back to my CBT course as I have missed so much time from university due to my current episode 
+5,null,null,This is my worst episode ever 
+6,null,null,I have had depression for 8 years  and 
+7,null,null,have been ashamed and embarrassed by it
+8,null,null,As my life seems to be ebbing away  I have come out with it and 
+9,null,null,seeking psychiatric help
+10,null,null,My problem has been that I work in psychiatry and have feared loosing my job  career 
+11,null,null,It means everything to me 
+12,null,null,It is the only thing I have and could not bare seeing it go down the toilet 
+13,null,null,Friends do not understand and 
+14,null,null,know how to discuss the topic with me
+15,null,null,My family does not know as it would devastate an already broken family 
+16,null,null,For 8 years I have suffered in silence 
+17,null,null,cried silent screams
+18,depressed,tormented, been tormented by my own brain 
+19,null,null,I hate imagining living a life like this especially when the long term effects I am reminded of every day  my patients  
+20,null,null,The only person I had was my ex girlfriend  we split last year 
+21,null,null,CAUSE 
+22,null,null,me 
+23,null,null,Stress got the better of me 
+24,null,null, my thinking became screwed and I have lost her  for life
+25,null,null,She was the only one I could talk to  some one I had known for  12 odd years 
+26,null,null,Depression has ruined my life 
+27,null,null,This episode has been an eye opener 
+28,null,null,This is the first time planet earth is hearing about my struggle 
+29,null,null,Something  which may have otherwise been lost 
+30,null,null,My secrets buried with me 
+31,null,null,Do not confuse this as a suicide note 
+32,null,null,It is not 
+33,null,null,It is me talking about things in this way for the first time 
+34,null,null,I am over the crisis point but nowhere near my usual self and 
+35,null,null,need to sort my medicines out with my doctor as soon as possible
+36,null,null,I have had a brave chat with my boss who is going to sort out a psychiatrist in the next 10 days  all being well 
+37,null,null,I have only taken one OD in 1998 with a serious intent to kill myself 
+38,null,null,Doctors said I survived as I woke up 
+39,null,null,For years I have avoided talking about it 
+40,null,null, never wanted to see a psychiatrist but realize now  well for now  that there is 2 people inside me
+41,null,null,One is me  the other is depression and
+42,null,null,to stand the best chance of staying well and keeping
+43,null,null,well then I need to face I have a problem 
+44,null,null,Around 3 weeks ago I was so actively suicidal  I was thinking of jumping off a bridge into the river  i searched the internet for ways to kill myself 
+45,null,null,I am out of that acute phase but 
+46,null,null,do not trust myself
+47,null,null,I have tried SSRIs
+48,null,null,but they just do not agree with me
+49,null,null,so it looks like I am going back on Mirtazapine 
+50,null,null,I stopped taking it sometime ago as I put on weight 
+51,null,null,Since last year I have lost 2 stone through diet and exercise 
+52,null,null,In the last 3 weeks I have lost 4 lbs as a result of depression 
+53,null,null,Right now my mind is blank 
+54,null,null,I have never chatted to anyone on this forum before
+55,null,null,but I know
+56,null,null,you guys know what I am going through 
+57,null,null,My life has never been the same since 1998 
+58,null,null,It never will be 
+59,null,null,My dad died in 2002 since then
+60,null,null,things have worsened 
+61,null,null,I have so much to say I could write on but going to leave it for now 
+62,null,null,You guys are the first to hear my full  well pretty full  story 
+63,null,null,I have never had the courage to speak like this before 
+64,null,null,Bye for now
+96 32
+ (19, 7),
+1,null,null,10 years I have been managing depression and
+2,null,null,I was doing well  until last Monday 
+3,null,null,Quick back story  38  m  Ireland 
+4,null,null,I was a competitive Powerlifter and 
+5,null,null,represented my country on 2 occasions with great success
+6,null,null,My life was lifting  setting goals  reaching targets  smashing PBs  all helped with creating a future for myself 
+7,null,null,I started to feel unwell around December 2016 and developed a persistent  non  productive cough 
+8,null,null,Series of tests led me to an echocardiograph where it was discovered I was suffering Heart Failure 
+9,null,null,Dilated Cardio Myopathy caused by a viral infection  left my hearts function at 20EF 
+10,null,null,Apparently I had a few months to live if I had not caught it 
+11,null,null,Ironically  now  I wish they had not discovered it 
+12,null,null,My world flipped upside down 
+13,null,null,No Powerlifting  no excessive exercise  restricted fluid intake  no over exertion  meds for the rest of my life  when my heart goes irregular 
+14,null,null,regular reviews in my heart clinic  multiple ambulance emergency rides to AampE
+15,null,null,Hospital  pharmacy  hospital  pharmacy 
+16,null,null,Seems to be my life for the past year 
+17,null,null,Last Monday I snapped 
+18,null,null,It hit me 
+19,depressed,crashing,Everything I lost came crashing in on me 
+20,null,null,I got in my car  
+21,null,null,picked a place I knew well to ram my car into at 120 mph
+22,null,null,I was screaming at myself to do it 
+23,null,null,My left hand steering towards the end 
+24,null,null,my right hand steering me to survive 
+25,null,null,An image of my dog in my mind kept me on the road 
+26,null,null,I knew she would miss me too much 
+27,null,null,I am still very low now despite all my meds 
+28,null,null,I still wish I had gone through with it 
+29,null,null,I still think of going to the Cliffs of Moher and jumping 
+30,null,null,What a beautiful place to end it 
+31,null,null,I am dreading the road ahead because I know how Rocky it is going to be 
+32,null,null,Help me please 
+97 23
+ (4, 9),
+1,null,null,I am Weakest At Night 
+2,null,null,I do not understand the reason for this  but
+3,null,null,for as long as I can remember I have always been weakest during the night time 
+4,depressed,weak mentally,I feel weak mentally  emotionally  physically  internally 
+5,null,null,I feel like I can not go on  like I can not keep fighting 
+6,null,null,like I have had enough 
+7,null,null,I freeze over  my body locks up  my fear paralyzes me  and
+8,null,null,my mind becomes my enemy 
+9,null,null,Night seems endless because I can not see much of anything no matter where I try to look 
+10,null,null,From minor fears to worst nightmares stalk me like I am nothing but an insignificant prey who is time has come 
+11,null,null,I am exhausted and need sleep  but
+12,null,null,only nightmares haunt me or the fear of being attacked while I am immobile by unconsciousness 
+13,null,null,And yet  though a part of me yearns for light  for the warm comfort of the sun  it only depresses me 
+14,null,null,In the light I can see what I truly am  I can see a reflection of something I have grown to hate 
+15,null,null,When I look at my reflection I want to smash the mirror
+16,null,null,so I can no longer see the truth of my insignificant existence 
+17,null,null,In the light I can see everyone else  either continuing on with their lives without a thought of me or a second glance 
+18,null,null,Or I see other people like me suffering and
+19,null,null,it both hurts and gives me a strange  and possibly  a cruel comfort 
+20,null,null,I hate seeing other is suffer  but
+21,null,null,I am so insignificant I am helpless that I might as well be dead 
+22,null,null,I need the light and
+23,null,null,yet it hurts me 
+99 5
+ (2, 1),
+1,null,null,Looked at bank statement  saw 100 less than I expected  almost had a breakdown 
+2,depressed,upsetting,Been having to eat out a lot for reasons I do not really want to get into and are really upsetting to think about 
+3,null,null,Checked my bank statement and saw that I had a hundred fewer dollars than I expected  looked at the charges  saw how much more I was eating out than I would expected having had to  got really upset and resentful about my situation  which compounded how upset and resentful
+4,null,null,I was about  missing  the money in the first place 
+5,null,null,Really not doing good right now 
+101 15
+ (2, 5),
+1,null,null,I am a 42 year old woman who is single and has no one  special  in my life 
+2,depressed,disgusted,I am becoming my disgusted with my life and where I am 
+3,null,null,I really want to make 2006 my year 
+4,null,null,Yes I have said that every year since I turned 18 
+5,null,null,I am at the lowest point that I did not want to reach 
+6,null,null,I am afraid to sink any lower 
+7,null,null,I am currently on effexor and linispril 
+8,null,null,Effexor is started to have a negative effect on my heath  but
+9,null,null,I am so afraid of returning night terrors that I am afraid to allow my doctor to change it 
+10,null,null,I am seeing a counselor
+11,null,null,but he is not working on my cognitive behavior 
+12,null,null,I need someone to tell me positive things and to help me believe that I am not bad 
+13,null,null,He just seems to repeat what I say 
+14,null,null,I had someone before who focused on my thought patterns and
+15,null,null,it helped greatly 
