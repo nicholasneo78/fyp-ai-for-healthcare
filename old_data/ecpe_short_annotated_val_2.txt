@@ -1,0 +1,304 @@
+181 1
+ (1, 1),
+1,depressed,no reason,How can someone who truly believes that there is absolutely no reason for them being here have the strength to keep living 
+182 3
+ (1, 3),
+1,depressed,change,Ppl think it is just so easy to change your whole life  but
+2,null,null,it is not 
+3,null,null,Ugh  money
+183 4
+ (3, 1),
+1,null,null,if I could I would feel nothing that is the truth
+2,null,null,and I do not care 
+3,depressed,cold,the world is cold and
+4,null,null,life is not fair 
+184 3
+ (1, 2),
+1,depressed,sucks,What sucks is when you are talking to someone and start feeling good about yourself
+2,null,null,and then they stop talking 
+3,null,null,You are left wondering what you said wrong 
+185 3
+ (2, 3),
+1,null,null,Not even in a sexual way
+2,depressed,crap,but I am just craving affection because I feel like crap 
+3,null,null,I just want someone to hug me for a couple of hours and tell me I am going to be okay 
+186 1
+ (1, 1),
+1,depressed,plunge,Sometimes I do not want to think because I know that my mind will definitely plunge into imagining the life that will never happen 
+187 6
+ (5, 1),
+1,null,null,I want peace 
+2,null,null,A life with no conflict 
+3,null,null,Do I have to die to find peace 
+4,null,null,isuck it up or  
+5,depressed,commit suicide,commit suicide
+6,null,null,Is that my only options 
+188 3
+ (3, 2),
+1,null,null,I did not want to wake up 
+2,null,null,I was having a much better time asleep 
+3,depressed,sad,And that is really sad 
+189 7
+ (4, 6),
+1,null,null,I walk around the house
+2,null,null,and I see things of Debbie
+3,null,null,and I think of her 
+4,depressed,pain,I think of the pain she went through  suffered for so long 
+5,null,null,All those procedures she went through 
+6,null,null,Between finding out she had cancer and the pain 
+7,null,null,Having chemotherapy for a long time 
+190 2
+ (1, 1),
+1,depressed,uncomfortable,I am always uncomfortable  especially now that I have picked up so much weight 
+2,null,null,I am the heaviest I have ever been in my life  
+191 2
+ (2, 2),
+1,null,null,Depression reality  Trapped inside my skin and trying to tear myself out
+2,depressed,trapped,but no  one knows I am trapped or sees my struggle 
+192 8
+ (7, 7),
+1,null,null,gelo 
+2,null,null,abis baca ini 
+3,null,null,sedih jg yaahh 
+4,null,null,it is a very familiar sad feeling and
+5,null,null,i do not want to be this kind of mother
+6,null,null,but sometimes i can not help but 
+7,depressed,inescapable toxic cycle,feel like i am falling into an inescapable toxic cycle
+8,null,null,i just  want to cry   
+193 1
+ (1, 1),
+1,depressed,cried,I do not remember the last time I have cried this much from being sick   
+194 3
+ (2, 2),
+1,null,null,Have you ever felt so and  that you had horrible thoughts Who
+2,depressed,no one,do you turn to when you have no one 
+3,null,null,No one you can trust
+195 5
+ (0, 0),
+1,null,null,Be vewy  
+2,null,null,vewy quiet
+3,depressed,low self esteem,I am hunting my low self esteem
+4,null,null, you wascalwy depwession you 
+5,null,null,Or  why I do not own a gun 
+196 2
+ (1, 1),
+1,depressed,hurt,Only difference being that now I hurt more than so  because led me to vertebral  sacral  radial fractures 
+2,null,null,GG N1 2016 
+197 2
+ (2, 1),
+1,null,null,Laying in bed eating dinner for one  watching netflix 
+2,depressed,more to life,Surely there is more to life  
+198 1
+ (1, 1),
+1,depressed,screaming,Silently screaming for help inside  wanting to die and wishing someone would see and help me
+199 2
+ (1, 1),
+1,depressed,depressed,Ending the year the same way it started  depressed 
+2,null,null,Here is to a happier  more positive year 
+200 3
+ (1, 3),
+1,depressed,take so long,Omg why does everything have to take so long  
+2,null,null,If it is my call it should be quick 
+3,null,null,Just want my baby girl back 
+201 2
+ (1, 1),
+1,depressed,killing,I do not give two shits anymore about anyone who cba with me  your like the cancer that is killing my nan
+2,null,null,so Fuck you
+202 2
+ (1, 2),
+1,depressed,exhausting,This last year has been the most mentally  emotionally draining and exhausting year ever 
+2,null,null,I am just not the same person I used to be since he left me  
+203 3
+ (1, 1),
+1,depressed,intenal struggle,I wish the best to those dealing w an internal struggle like mine 
+2,null,null,I know how hard it can hit at times 
+3,null,null,Depression hurts 
+204 1
+ (1, 1),
+1,depressed,shattered glass,Broken As I take this shattered glass And run it down my skin I hope for you the best In your devilish sin
+205 2
+ (1, 2),
+1,depressed,kill myself,Why the fuck am I hanging on this long  why do not I just kill myself 
+2,null,null,Oh yeah because I still have false hope 
+206 2
+ (1, 1),
+1,depressed,low,HealthTap  I have not eaten anything all day because I feel and low
+2,null,null,What should I do 
+207 8
+ (2, 4),
+1,null,null,Waiting for my ins 
+2,depressed,depression,to kick in so I can get treated for depression 
+3,null,null,Until then  for a mere 50 cents I can feed these turtles 
+4,null,null,They make shit therapists though 
+5,null,null,They keep telling me to drown myself in their pond
+6,null,null,so I can become one of them 
+7,null,null,It is not bad they say   
+8,null,null,at McGough Nature Park
+208 6
+ (6, 5),
+1,null,null,Well  I just had the most depressing dream 
+2,null,null,It was when I finally found a beautiful girl to call my own  and  
+3,null,null,we had a long  lovely kiss 
+4,null,null,Only to discover 
+5,null,null,it was only a dream   
+6,depressed,messing,Thank you  dream  for messing me up inside with a LIE 
+209 2
+ (1, 2),
+1,depressed,saddest,One of the saddest day of this year for me  
+2,null,null, hope to get out of it soon   
+210 3
+ (3, 1),
+1,null,null,Idk how I am gon na be able to go to lover
+2,null,null,I have to buy tickets with my own money
+3,depressed,broke,and I am literally broke
+211 1
+ (1, 1),
+1,depressed,mental breakdown,Being so fucking composed all the time is getting tiring  I need to have a mental breakdown at some point
+212 2
+ (1, 1),
+1,depressed,mentally totured,I feel so mentally tortured right now 
+2,null,null,Dunno what to do  Feel completely out of control 
+213 6
+ (2, 3),
+1,null,null,I am just going to say it 
+2,depressed,mess,I am a complete fucking mess here 
+3,null,null,Seriously wanting to just run and kiss a certain individual 
+4,null,null,She knows who she is 
+5,null,null,I can not tag her in it tho 
+6,null,null,She is still my better half 
+214 3
+ (3, 1),
+1,null,null,I am so sad I have to work on Christmas 
+2,null,null,My favorite time of year 
+3,depressed,alone,I am gon na be working  or alone in my apartment  
+215 3
+ (3, 1),
+1,null,null,I did nt want to wake up 
+2,null,null,I was having a much better time asleep 
+3,depressed,sad,And that s really sad    
+216 2
+ (1, 1),
+1,depressed,shuts down,i hate getting so sad to the point where my body completely shuts down  and 
+2,null,null,all i can do is just lay and think about all my problems
+217 7
+ (1, 4),
+1,depressed,emotional rollercoaster,I have never experienced more of an emotional rollercoaster like I did with my and 
+2,null,null,than I did yesterday
+3,null,null,Not since I was at least 19 
+4,null,null,The guilt I feel today for how I treated my child is immense 
+5,null,null,These disorders are no joke 
+6,null,null,I am sorry and
+7,null,null,I love you  Bug 
+218 3
+ (2, 1),
+1,null,null,It is really so sad  these stories about shootings 
+2,depressed,crash down,Makes me feel so trying to keep my head up and not crash down again 
+3,null,null,Z
+219 4
+ (2, 4),
+1,null,null,That moment you miss someone and and
+2,depressed,hurting,hurting over the memories
+3,null,null,when you got a crush and looked like an idiot going to his dad for his number
+4,null,null,cause you do not know how to talk to him and looked like a bigger idiot asking to be good friends
+220 2
+ (1, 2),
+1,depressed,suicide,What I have to say about not posting since September is NEVER try suicide 
+2,null,null,Life is so worth so much more than a handful of pills 
+221 5
+ (1, 4),
+1,depressed,upset,I am so fuckin upset
+2,null,null,rn 
+3,null,null,Not coming back to twitter for a while 
+4,null,null,I am so fucking done with everything rn 
+5,null,null,This sucks 
+222 1
+ (1, 1),
+1,depressed,right back,Jus when something makes you happy it fucking puts you right back in your place
+223 4
+ (1, 1),
+1,depressed,breakdowns,I just had another one of my breakdowns 
+2,null,null,I saw it coming 
+3,null,null,I have been feeling it for days 
+4,null,null,Back in isolation I go 
+224 3
+ (0, 0),
+1,null,null,I hate this feeling  but
+2,null,null,I brought it on myself
+3,depressed,hurt,I hope that those I have hurt will not give up on me  
+225 3
+ (3, 1),
+1,null,null, AUTISM AND DEPRESSION  
+2,null,null,I hate it when I get the feels 
+3,depressed,suffer,If you suffer from autism  you will probably get this image 
+226 6
+ (1, 3),
+1,depressed,depression,I have not talked about hoarding and depression in a while 
+2,null,null,I am on a quarter dose of meds now 
+3,null,null,And I am still a bit stuck with hoarding 
+4,null,null,Decided to try to do some removal for efficiency today 
+5,null,null,I found a dotmatrix printed transcript of from 
+6,null,null,Fullpost Twittr 
+227 2
+ (1, 1),
+1,depressed,desperate,Up at 4 am  angsty about not able to exercise  injury   desperate to run away on adventure 
+2,null,null,Fucking  fuck  Black Dog is hunting
+228 3
+ (2, 2),
+1,null,null,Yes brain 
+2,depressed,gloomy,This gloomy  sad  turbulent  low energy feeling is a sign of my certain death 
+3,null,null,Now is the time to get worried 
+229 4
+ (2, 1),
+1,null,null,I can not get myself out of this rut 
+2,depressed,want to die,I want to die 
+3,null,null,But I care too much about everyone else 
+4,null,null,So I will continue to be miserable 
+230 1
+ (1, 1),
+1,depressed,bullshit,And all the bullshit in your live ends and nothing will bother you ever again depression
+231 5
+ (1, 5),
+1,depressed,unhappy,When I am at work and depressed do nt say  you look unhappy  
+2,null,null,I am here and 
+3,null,null,working
+4,null,null, what next you will go to Disney world and tell little kids that that it is not the real character
+5,null,null,I am doing my best  do not shatter my illusion 
+232 1
+ (1, 1),
+1,depressed,bury,Headed home from Dallas to bury my dog that we have had for 15 years   
+233 3
+ (2, 2),
+1,null,null,I am on my 14th or 15th beer now 
+2,depressed,alone,God I am so alone
+3,null,null,please let me die   
+234 3
+ (3, 2),
+1,null,null,I made a joke  amp  my boyfriend laughed but
+2,null,null,when I looked over he was actually laughing at a video on his phone
+3,depressed,hurting,sad  lt3 hurting brokenheart
+235 2
+ (1, 1),
+1,depressed,horrible,When you go do that it makes me feel like I am horrible at it
+2,null,null,I am sorry
+236 2
+ (2, 1),
+1,null,null,Once she said you are my world  now she is saying not only you exist in the earth 
+2,depressed,heartbreaking,pain heartbreaking
+237 4
+ (3, 4),
+1,null,null,I am starting to wonder if is actually looking out for me right now 
+2,null,null,I would say
+3,depressed,embarrassed,why but I am too embarrassed 
+4,null,null,I am 2 low class
+238 3
+ (1, 1),
+1,depressed,despair,With my I find there is often a unattached feeling of despair that attaches itself to moments  the more fitting a moment the more it expands 
+2,null,null,People then think it is the sad moment that is the issue  but
+3,null,null,even without that  the depression is still there 
+239 2
+ (2, 2),
+1,null,null,Being single is not that bad  you got time stay focus on your plans and goals  you do not even have to deal with drama 
+2,depressed,loneliness,Until 11 pm hits and loneliness comes along  
+240 1
+ (1, 1),
+1,depressed,hopelessness,You look tired  and a bit too quiet  is it the silence of hopelessness 
