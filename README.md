@@ -7,8 +7,7 @@ Mental health has been an increasingly challenging issue to tackle in this era d
   
 With technological advancements, social media platforms serve as a place for depressed personnel to seek help, hoping to feel better in one way or another. However, their problems are often neglected by others on the internet. If not detected quickly and accurately, one’s depression may develop into more serious issues such as suicidal thoughts.   
   
-Research has shown that nearly 300 million people in the world suffer from depression every year. Measures to assess depression include clinical judgement or structured interviews, but a more common method is the use of social media analysis. Social media helps to detect depression by analysing posts on social media platforms. This method is preferred as expressing one’s feelings online has become the new norm, and processing of social media data can take place quickly, so 
-authorities are able to intervene at an earlier stage.  
+Research has shown that nearly 300 million people in the world suffer from depression every year. Measures to assess depression include clinical judgement or structured interviews, but a more common method is the use of social media analysis. Social media helps to detect depression by analysing posts on social media platforms. This method is preferred as expressing one’s feelings online has become the new norm, and processing of social media data can take place quickly, so authorities are able to intervene at an earlier stage.  
   
 This project thus aims to analyse depressive texts from social media such as Twitter and Reddit 
 by building various deep learning models for the different main tasks, hoping that we can detect 
@@ -29,3 +28,5 @@ In this project, there will be a total of three main tasks and one subtask to pe
 **Subtask:**  
 1. Text Summarisation (Extractive & Abstractive)  
 
+## Code Environment
+The whole project will be coded in Python 3. Both the Jupyter Notebook and the Google Colaboratory will be used to implement the depression analysis on social media data. Codes written in Jupyter notebooks are mainly dealing with importing of data and data cleaning for later analysis. Codes written in Google Colaboratory are mainly dealing with training of models for the different main and subtasks. Google Colaboratory is preferred for training of models because it has a free Graphics Processing Unit (GPU) that can be used to speed up training.
