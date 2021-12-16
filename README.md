@@ -1,2 +1,3 @@
-# fyp-code
-a repo to store fyp code
+# Final Year Project - AI for Healthcare
+** Analysis on Depressive Social Media Texts **
+
